@@ -1,6 +1,6 @@
 package product;
 
-public abstract class Bread extends ProductForSale{
+public class Bread extends ProductForSale{
 
     private String flourType;
 
